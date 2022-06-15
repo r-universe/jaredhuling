@@ -3,3 +3,38 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fastglm"]
+	path = fastglm
+	url = https://github.com/jaredhuling/fastglm
+	shallow = true
+	registered = true
+[submodule "hierSDR"]
+	path = hierSDR
+	url = https://github.com/jaredhuling/hiersdr
+	shallow = true
+	registered = true
+[submodule "jcolors"]
+	path = jcolors
+	url = https://github.com/jaredhuling/jcolors
+	shallow = true
+	registered = true
+[submodule "oem"]
+	path = oem
+	url = https://github.com/jaredhuling/oem
+	shallow = true
+	registered = true
+[submodule "personalized"]
+	path = personalized
+	url = https://github.com/jaredhuling/personalized
+	shallow = true
+	registered = true
+[submodule "personalized2part"]
+	path = personalized2part
+	url = https://github.com/jaredhuling/personalized2part
+	shallow = true
+	registered = true
+[submodule "vennLasso"]
+	path = vennLasso
+	url = https://github.com/jaredhuling/vennlasso
+	shallow = true
+	registered = true
