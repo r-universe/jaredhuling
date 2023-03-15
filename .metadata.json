@@ -1,5 +1,21 @@
 [
   {
+    "package": "jcolors",
+    "oncran": true
+  },
+  {
+    "package": "vennLasso",
+    "oncran": true
+  },
+  {
+    "package": "personalized2part",
+    "oncran": true
+  },
+  {
+    "package": "oem",
+    "oncran": true
+  },
+  {
     "package": "fastglm",
     "oncran": true
   },
@@ -8,23 +24,7 @@
     "oncran": true
   },
   {
-    "package": "jcolors",
-    "oncran": true
-  },
-  {
-    "package": "oem",
-    "oncran": true
-  },
-  {
     "package": "personalized",
-    "oncran": true
-  },
-  {
-    "package": "personalized2part",
-    "oncran": true
-  },
-  {
-    "package": "vennLasso",
     "oncran": true
   }
 ]
