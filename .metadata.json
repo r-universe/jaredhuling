@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "independenceWeights",
+    "oncran": true
+  },
+  {
     "package": "jcolors",
     "oncran": true
   },

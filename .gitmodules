@@ -13,6 +13,11 @@
 	url = https://github.com/jaredhuling/hiersdr
 	shallow = true
 	registered = true
+[submodule "independenceWeights"]
+	path = independenceWeights
+	url = https://github.com/jaredhuling/independenceweights
+	shallow = true
+	registered = true
 [submodule "jcolors"]
 	path = jcolors
 	url = https://github.com/jaredhuling/jcolors
