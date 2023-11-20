@@ -20,6 +20,3 @@
 [submodule "personalized2part"]
 	path = personalized2part
 	url = https://github.com/jaredhuling/personalized2part
-[submodule "vennLasso"]
-	path = vennLasso
-	url = https://github.com/jaredhuling/vennlasso
