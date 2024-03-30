@@ -11,6 +11,9 @@
 [submodule "independenceWeights"]
 	path = independenceWeights
 	url = https://github.com/jaredhuling/independenceweights
+[submodule "jcolors"]
+	path = jcolors
+	url = https://github.com/jaredhuling/jcolors
 [submodule "oem"]
 	path = oem
 	url = https://github.com/jaredhuling/oem
