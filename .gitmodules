@@ -5,6 +5,9 @@
 [submodule "fastglm"]
 	path = fastglm
 	url = https://github.com/jaredhuling/fastglm
+[submodule "forestBalance"]
+	path = forestBalance
+	url = https://github.com/jaredhuling/forestbalance
 [submodule "hierSDR"]
 	path = hierSDR
 	url = https://github.com/jaredhuling/hiersdr
