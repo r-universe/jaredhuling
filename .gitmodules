@@ -29,3 +29,6 @@
 [submodule "swjm"]
 	path = swjm
 	url = https://github.com/jaredhuling/swjm
+[submodule "vennLasso"]
+	path = vennLasso
+	url = https://github.com/jaredhuling/vennlasso
